@@ -27,4 +27,10 @@ public class Vettore<T> {
             System.out.println(oggetti[i]);
         }
     }
+
+    public void ricerca() {
+
+    }
+
+
 }
